@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "spiritborn:block/rowan_door_top",
+    "bottom": "spiritborn:block/rowan_door_bottom"
+  }
+}

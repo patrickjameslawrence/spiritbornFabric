@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "spiritborn:rowan_planks"
+    }
+  ],
+  "result": {
+    "item": "spiritborn:rowan_button"
+  }
+}
